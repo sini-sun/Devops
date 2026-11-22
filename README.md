@@ -2,7 +2,7 @@
 
 ## 项目来源
 
-项目地址：[roadmap.sh 服务器性能统计项目](在这里粘贴你复制的项目页面URL)
+项目地址：https://roadmap.sh/projects/server-stats
 
 ## 项目介绍
 
